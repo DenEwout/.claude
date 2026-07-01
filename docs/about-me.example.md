@@ -1,7 +1,7 @@
 # About me
 
-<!-- Template. Copy to docs/about-me.md and fill in your own details. The real file is gitignored. -->
+<!-- Example only. Write your own and save as docs/about-me.md (gitignored). -->
 
-- I am a <role, e.g. technical lead> with software engineering experience since <year>.
-- I run/work at <company> (<size or short context>).
-- My main client or product is <name>.
+- I'm a backend engineer, mostly Python and Go, coding professionally since 2016.
+- I freelance solo, usually on 3-6 month contracts.
+- Right now I'm helping a logistics client break a monolith into event-driven services.
