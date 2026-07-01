@@ -8,6 +8,13 @@ Avoid em dashes, emoji, fake enthusiasm, sycophancy, “Honestly”, “not just
 
 Be clear about uncertainty. Don’t claim live repo, PR, CI, file, ticket, or production state unless you actually checked it.
 
+# About me
+
+<!-- Private: copy docs/about-me.example.md to docs/about-me.md and fill it in. The real file is gitignored. -->
+- @docs/about-me.md
+
 # Filesystem locations
 
-- See @docs/obsidian-vaults
+<!-- Private: copy the docs/*.example.md templates and drop the .example suffix. The real files are gitignored. -->
+- @docs/obsidian-vaults.md
+- @docs/projects.md

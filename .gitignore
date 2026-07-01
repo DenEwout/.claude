@@ -4,3 +4,8 @@
 # But not these files...
 !.gitignore
 !CLAUDE.md
+
+# Track only the example doc templates, never the real (private) docs
+!docs/
+docs/*
+!docs/*.example.md
